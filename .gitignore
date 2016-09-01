@@ -1,0 +1,10 @@
+a.out
+*.[ado]
+.*.swp
+core.*
+block
+.ycm_extra_conf.pyc
+.idea/
+CMakeLists.txt
+vgcore.*
+
